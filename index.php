@@ -32,7 +32,7 @@
             <div class="rs-main">
                 <div class="rs-content rs-panel">
                     <div class="rs-inner">
-                        <h2 class="rs-page-title">Demo Code Version 1</h2>
+                        <h2 class="rs-page-title">Demo Code Version 2</h2>
                         <p><?php echo $this->data['message']; ?></p>
                     </div>
                 </div>
