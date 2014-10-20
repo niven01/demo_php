@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PHP Test App</title>
+  <title>Demo App</title>
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="https://eafdbc63c97ce6bec9ef-b0a668e5876bef6fe25684caf71db405.ssl.cf1.rackcdn.com/v1-latest/canon.min.css">
   <script type="application/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
