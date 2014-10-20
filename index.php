@@ -32,9 +32,9 @@
             <div class="rs-main">
                 <div class="rs-content rs-panel">
                     <div class="rs-inner">
-                        <h2 class="rs-page-title">Demo Code Version 1</h2>
-                        <p><?php echo 'VERSION 1'; ?></p>
-                        <img src="http://caa48e96f11ddd896e56-cbd62a0ad7e2d388825529106f960d1e.r78.cf2.rackcdn.com/RackspaceLogoManagedCloudLogo400w.jpg" />
+                        <h2 class="rs-page-title">Demo Code Version 2</h2>
+                        <p><?php echo 'VERSION 2'; ?></p>
+                        <img src="http://c744563d32d0468a7cf1-2fe04d8054667ffada6c4002813eccf0.r76.cf1.rackcdn.com/images/blog/button-community.png" />
                     </div>
                 </div>
                 </div>
