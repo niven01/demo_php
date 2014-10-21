@@ -32,9 +32,9 @@
             <div class="rs-main">
                 <div class="rs-content rs-panel">
                     <div class="rs-inner">
-                        <h2 class="rs-page-title">Demo Code Version 2</h2>
+                        <h2 class="rs-page-title">Demo Code Version 1</h2>
                         <p><?php echo 'Commit ID: '; include 'version.php'; ?></p>
-                        <img src="http://c744563d32d0468a7cf1-2fe04d8054667ffada6c4002813eccf0.r76.cf1.rackcdn.com/images/blog/button-community.png" />
+                        <img src="http://caa48e96f11ddd896e56-cbd62a0ad7e2d388825529106f960d1e.r78.cf2.rackcdn.com/RackspaceLogoManagedCloudLogo400w.jpg" />
                     </div>
                 </div>
                 </div>
@@ -47,7 +47,7 @@
   <div class="rs-nav-footer">
     <div class="rs-container">
       <ul class="rs-nav">
-        <li class="rs-nav-item">&copy; Rackspace, US</li>
+        <li class="rs-nav-item">&copy; Rackspace, UK</li>
         <li class="rs-nav-item"><a class="rs-nav-link" href="http://www.rackspace.com/information/legal/websiteterms" target="blank">Website Terms</a>
         <li class="rs-nav-item"><a class="rs-nav-link" href="http://www.rackspace.com/information/legal/privacystatement" target="blank">Privacy Policy</a>
       </ul>
