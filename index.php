@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Demo App</title>
-  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="refresh" content="10" name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="https://eafdbc63c97ce6bec9ef-b0a668e5876bef6fe25684caf71db405.ssl.cf1.rackcdn.com/v1-latest/canon.min.css">
   <script type="application/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
   <script type="application/javascript" src="https://eafdbc63c97ce6bec9ef-b0a668e5876bef6fe25684caf71db405.ssl.cf1.rackcdn.com/v1-latest/canon.min.js"></script>
@@ -32,9 +32,9 @@
             <div class="rs-main">
                 <div class="rs-content rs-panel">
                     <div class="rs-inner">
-                        <h2 class="rs-page-title">Demo Code Version 2</h2>
+                        <h2 class="rs-page-title">Demo Code Version 1</h2>
                         <p><?php echo 'Commit ID: '; include 'version.php'; ?></p>
-                        <img src="http://c744563d32d0468a7cf1-2fe04d8054667ffada6c4002813eccf0.r76.cf1.rackcdn.com/images/blog/button-community.png" />
+                        <img src="http://caa48e96f11ddd896e56-cbd62a0ad7e2d388825529106f960d1e.r78.cf2.rackcdn.com/RackspaceLogoManagedCloudLogo400w.jpg" />
                     </div>
                 </div>
                 </div>
