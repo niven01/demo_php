@@ -1,13 +1,5 @@
 <?php
-
-// Show all information, defaults to INFO_ALL
-// phpinfo();
-
-// Show just the module information.
-// phpinfo(8) yields identical results.
-// phpinfo(INFO_MODULES);
-
-echo sqrt(rand());
-
-
+$random = rand(1,10000);
+$square = sqrt($random);
+echo "Square root of $random is $square";
 ?>
