@@ -34,7 +34,7 @@
                     <div class="rs-inner">
                         <h2 class="rs-page-title">Demo Code Version 2</h2>
                         <p><?php echo 'Commit ID: '; include 'version.php'; ?></p>
-                        <img src="http://c744563d32d0468a7cf1-2fe04d8054667ffada6c4002813eccf0.r76.cf1.rackcdn.com/images/blog/button-community.png" />
+                        <img src="http://9a235d8f41b67f7cad4b-8aac7af9128132fac7c466e9c0db0d1d.r1.cf3.rackcdn.com/logo2.png" />
                     </div>
                 </div>
                 </div>
